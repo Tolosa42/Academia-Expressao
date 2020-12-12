@@ -1,0 +1,37 @@
+.Title{ font-variant: small-caps;
+	font-family: Verdana, Sans-Serif;
+	font-style: normal;
+	color: #13213c;
+}
+
+.Curso{ 
+		background: #ffcc99;
+}
+	 
+.subtitle{	font-variant: small-caps;
+	 	font-family: Verdana, Sans-Serif;
+		font-style: normal;
+		color: #13213c;
+ }
+
+
+.p_cursos {font-family: Courier, Mono;}
+
+table {
+	background-color: red;
+}
+
+footer{ background: black;
+	 margin: 0px;
+	 padding: 60px;
+	box-sizing: border-box;
+	color:#DCDCDC;
+	font-family: Arial, Sans-Serif;;
+	font-style: normal;
+	font-variant: small-caps;
+		
+}
+
+#social{ float: right; }
+
+hr { color: white}
